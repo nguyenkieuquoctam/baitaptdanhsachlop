@@ -1,0 +1,43 @@
+table {
+  border: 20px;
+  border-radius: 16px;
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  background-color: rgb(126, 219, 211);
+}
+td {
+  vertical-align: top;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: rgb(76, 161, 155);
+}
+
+li {
+  background-color: rgb(119, 229, 231);
+  margin: 10px;
+  border-radius: 15px;
+}
+
+li:hover {
+  background-color: rgb(166, 82, 82);
+}
+
+a:hover {
+  color: rgb(204, 212, 92);
+}
+
+#bang {
+  width: 100%;
+  border-collapse: collapse;
+  width: 30%;
+}
+
+ol {
+  overflow-y: auto;
+  height: 500px;
+}
